@@ -1,2 +1,2 @@
-# Pattern
-常用设计模式
+# desgin_mode
+设计模式

@@ -1,0 +1,21 @@
+{
+    "name": "smater/pattern",
+    "description": "常用设计模式",
+    "type": "library",
+    "require": {
+        "php": "5.4"
+    },
+   "autoload": {
+        "psr-4": {
+            "Pattern\\": ""Pattern/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smater",
+            "email": "001@chenframe.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
