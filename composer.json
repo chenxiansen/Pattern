@@ -17,5 +17,5 @@
             "email": "001@chenframe.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
