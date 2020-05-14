@@ -6,7 +6,7 @@
  * Time: 14:41
  */
 
-namespace Decorator;
+namespace Pattern\Decorator;
 
 
 class Canvas1 extends Canvas

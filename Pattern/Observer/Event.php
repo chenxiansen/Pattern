@@ -1,5 +1,5 @@
 <?php
-namespace Observer;
+namespace Pattern\Observer;
 /**
  * Created by PhpStorm.
  * User: chen

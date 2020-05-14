@@ -1,5 +1,5 @@
 <?php
-namespace Prototype;
+namespace Pattern\Prototype;
 /**
  * Created by PhpStorm.
  * User: chen

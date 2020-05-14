@@ -6,7 +6,7 @@
  * Time: 15:37
  */
 
-namespace Proxy;
+namespace Pattern\Proxy;
 
 //代理模式常用于数据库的主从，读写分离
 class Index

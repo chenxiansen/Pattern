@@ -6,7 +6,7 @@
  * Time: 13:00
  */
 
-namespace Mapping_mode;
+namespace Pattern\Mapping_mode;
 
 
 class Page

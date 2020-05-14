@@ -1,5 +1,5 @@
 <?php
-namespace Adapter;
+namespace Pattern\Adapter;
 /**
  * Created by PhpStorm.
  * User: chen

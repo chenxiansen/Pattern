@@ -6,7 +6,7 @@
  * Time: 12:40
  */
 
-namespace Mapping_mode;
+namespace Pattern\Mapping_mode;
 
 
 class User

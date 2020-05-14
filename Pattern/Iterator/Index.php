@@ -6,7 +6,7 @@
  * Time: 15:04
  */
 
-namespace Iterator;
+namespace Pattern\Iterator;
 
 //迭代器模式
 class Index

@@ -6,7 +6,7 @@
  * Time: 13:13
  */
 
-namespace Observer;
+namespace Pattern\Observer;
 
 
 interface Observer

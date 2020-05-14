@@ -6,7 +6,7 @@
  * Time: 13:11
  */
 
-namespace Observer;
+namespace Pattern\Observer;
 
 
 abstract class EventGenerator

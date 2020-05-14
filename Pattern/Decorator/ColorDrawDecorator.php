@@ -6,7 +6,7 @@
  * Time: 14:51
  */
 
-namespace Decorator;
+namespace Pattern\Decorator;
 
 
 class ColorDrawDecorator implements DrawDecorator

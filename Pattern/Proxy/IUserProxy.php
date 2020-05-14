@@ -6,7 +6,7 @@
  * Time: 15:41
  */
 
-namespace Proxy;
+namespace Pattern\Proxy;
 
 
 interface IUserProxy

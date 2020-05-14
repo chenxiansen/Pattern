@@ -6,7 +6,7 @@
  * Time: 15:04
  */
 
-namespace Iterator;
+namespace Pattern\Iterator;
 
 //需要继承php自带的迭代器类
 class AllUser implements \Iterator

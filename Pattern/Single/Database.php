@@ -1,5 +1,5 @@
 <?php
-namespace Single;
+namespace Pattern\Single;
 /**
  * Created by PhpStorm.
  * User: chen

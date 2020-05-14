@@ -6,7 +6,7 @@
  * Time: 12:05
  */
 
-namespace Strategy;
+namespace Pattern\Strategy;
 
 
 class MaleuserStrategy implements userStrategy

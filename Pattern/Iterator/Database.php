@@ -1,5 +1,5 @@
 <?php
-namespace Iterator;
+namespace Pattern\Iterator;
 /**
  * Created by PhpStorm.
  * User: chen

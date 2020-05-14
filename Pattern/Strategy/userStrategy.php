@@ -6,7 +6,7 @@
  * Time: 12:04
  */
 
-namespace Strategy;
+namespace Pattern\Strategy;
 
 
 interface userStrategy

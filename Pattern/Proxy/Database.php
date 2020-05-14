@@ -1,5 +1,5 @@
 <?php
-namespace Proxy;
+namespace Pattern\Proxy;
 /**
  * Created by PhpStorm.
  * User: chen

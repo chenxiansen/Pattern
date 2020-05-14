@@ -6,7 +6,7 @@
  * Time: 14:03
  */
 
-namespace Prototype;
+namespace Pattern\Prototype;
 
 //原型模式适用于大对象的创建
 class Index

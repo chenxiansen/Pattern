@@ -1,5 +1,5 @@
 <?php
-namespace Decorator;
+namespace Pattern\Decorator;
 /**
  * Created by PhpStorm.
  * User: chen

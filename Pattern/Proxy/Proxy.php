@@ -6,7 +6,7 @@
  * Time: 15:40
  */
 
-namespace Proxy;
+namespace Pattern\Proxy;
 
 
 class Proxy implements IUserProxy

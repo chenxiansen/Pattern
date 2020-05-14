@@ -6,7 +6,7 @@
  * Time: 12:10
  */
 
-namespace Strategy;
+namespace Pattern\Strategy;
 
 //策略模式
 class Page

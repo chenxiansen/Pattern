@@ -6,7 +6,7 @@
  * Time: 14:44
  */
 
-namespace Decorator;
+namespace Pattern\Decorator;
 
 
 interface DrawDecorator

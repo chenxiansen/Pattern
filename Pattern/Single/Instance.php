@@ -6,7 +6,7 @@
  * Time: 10:49
  */
 
-namespace Single;
+namespace Pattern\Single;
 
 //单例模式
 class Instance

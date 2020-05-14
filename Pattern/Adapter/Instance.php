@@ -6,7 +6,7 @@
  * Time: 11:51
  */
 
-namespace Adapter;
+namespace Pattern\Adapter;
 
 
 class Instance

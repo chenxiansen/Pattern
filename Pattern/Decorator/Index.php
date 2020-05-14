@@ -6,7 +6,7 @@
  * Time: 14:03
  */
 
-namespace Decorator;
+namespace Pattern\Decorator;
 
 //装饰器模式
 class Index

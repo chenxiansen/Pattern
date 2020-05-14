@@ -6,7 +6,7 @@
  * Time: 12:42
  */
 
-namespace Mapping_mode;
+namespace Pattern\Mapping_mode;
 
 //数据对象映射模式
 class Index

@@ -6,7 +6,7 @@
  * Time: 11:01
  */
 
-namespace Register;
+namespace Pattern\Register;
 
 
 class Database

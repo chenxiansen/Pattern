@@ -6,7 +6,7 @@
  * Time: 14:57
  */
 
-namespace Decorator;
+namespace Pattern\Decorator;
 
 
 class SizeDrawDecorator implements DrawDecorator

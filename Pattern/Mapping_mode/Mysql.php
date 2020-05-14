@@ -1,5 +1,5 @@
 <?php
-namespace Mapping_mode;
+namespace Pattern\Mapping_mode;
 /**
  * Created by PhpStorm.
  * User: chen

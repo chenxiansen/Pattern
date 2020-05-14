@@ -1,5 +1,5 @@
 <?php
-namespace Factory;
+namespace Pattern\Factory;
 /**
  * Created by PhpStorm.
  * User: chen

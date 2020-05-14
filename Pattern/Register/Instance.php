@@ -6,7 +6,7 @@
  * Time: 11:02
  */
 
-namespace Register;
+namespace Pattern\Register;
 
 
 class Instance
