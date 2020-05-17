@@ -8,8 +8,8 @@
 
 namespace Pattern\Observer;
 
-
+//观察者模式，先定义一个观察者
 interface Observer
 {
-    function update($event_info = null);
+    public function notify($obj);
 }

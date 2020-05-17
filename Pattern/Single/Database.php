@@ -8,10 +8,11 @@ namespace Pattern\Single;
  */
 class Database
 {
-    protected $instance;
+    static protected $instance;
     //私有构造函数
-    private function __construct()
-    {}
+    private function __construct(){}
+
+    private function __clone(){}
 
     //获取实例
     static function getInstance()
